@@ -1,6 +1,6 @@
 # 👣 Girlhood – Walk Safe, Walk Strong
 
-**Built by Team AEEE at [Hackathon Name]**
+**Built by Team AEEE at [HackUTA]**
 
 ## 🌟 Overview
 **Girlhood** is a mobile app designed to support women walking home alone. Our mission is simple: empower women with real-time safety tools, community support, and peace of mind. Whether you're heading home from work, school, or a night out, Girlhood walks with you.
