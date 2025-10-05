@@ -12,6 +12,7 @@
 - **Community Check-ins** – Crowd-sourced safety updates from trusted user accounts.
 - **Silent Mode** – Discreet alerts and location sharing using code words.
 
-## Technology
+## 🧠 Technology
 - Gemini AI
 - Figma
+- CSS and Typescript coding
