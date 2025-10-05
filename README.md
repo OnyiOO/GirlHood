@@ -11,3 +11,7 @@
 - **Route Safety Scoring** – tracks your route home and ensures your safe arrival
 - **Community Check-ins** – Crowd-sourced safety updates from trusted user accounts.
 - **Silent Mode** – Discreet alerts and location sharing using code words.
+
+## Technology
+- Gemini AI
+- Figma
